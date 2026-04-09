@@ -1,0 +1,47 @@
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#FFFFFF;
+}
+
+header{
+background-color:#FFFB8A;
+color:#FFFFFF;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:papayawhip;
+padding:10px;
+text-align:center;
+text-decoration: none;
+}
+
+nav a{
+color:#FFC95C;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+nav a:hover{
+color:#FFAE00;
+}
+
+.container{
+padding:30px;
+text-align:center;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:40px;
+}
+
+</style>
